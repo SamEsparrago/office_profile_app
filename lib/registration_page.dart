@@ -199,7 +199,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
               ),
 
               CheckboxListTile(
-                title: const Text("Software Development"),
+                title: const Text("Business Analysis"),
 
                 value: software,
 
@@ -211,7 +211,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
               ),
 
               CheckboxListTile(
-                title: const Text("Networking"),
+                title: const Text("Network Technology"),
 
                 value: networking,
 
@@ -223,7 +223,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
               ),
 
               CheckboxListTile(
-                title: const Text("Cybersecurity"),
+                title: const Text("Service management"),
 
                 value: cybersecurity,
 
@@ -235,7 +235,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
               ),
 
               CheckboxListTile(
-                title: const Text("UI/UX Design"),
+                title: const Text("Web Design and UI/UX"),
 
                 value: uiux,
 
