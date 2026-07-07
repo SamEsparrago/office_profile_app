@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Collaboration Team
+
+Collaboration team for Lab Activity 2
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
